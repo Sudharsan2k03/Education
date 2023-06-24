@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(pexels-eberhard-grossgasteiger-2310713.jpg);
+}
+h1{
+    text-align: center;
+    color: black;
+}
+#sjc{
+    margin-top: 40px;
+    margin-left: 150px;
+}
+#sem{
+    margin-left: 225px;
+}
+#CN{
+   margin-top: -350px;
+   margin-left: 850px;
+}
+#CNmaterial{
+    margin-left: 880px;
+}
+#OS{
+    margin-top: 120px;
+    margin-left: 150px;
+}
+#OSmaterial{
+    margin-left: 145px;
+}
+#aspnet{
+    margin-top: -345px;
+    margin-left: 850px;
+}
+#netmaterial{
+    margin-left: 850px;
+}
+a{
+    font-size: 25px;
+}

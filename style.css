@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Ysabeau Office', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 250px;
+}
+body{
+    background-image: url(pexels-codioful-\(formerly-gradienta\)-7130503.jpg);
+    overflow: hidden;
+}
+.btn{
+    text-align: center; 
+    padding-top: 9px; 
+    margin: -10px;
+}
+#bttn{
+    font-size: 25px;
+    cursor: pointer;
+    color: white;
+    background-color: #4CAF50;
+}
